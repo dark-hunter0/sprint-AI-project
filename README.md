@@ -44,3 +44,4 @@ Heart_Disease_Project/
 └── requirements.txt
 
 ## Github link
+https://github.com/dark-hunter0/sprint-AI-project.git
